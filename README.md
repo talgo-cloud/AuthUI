@@ -1,4 +1,10 @@
 # auth-ui
+![UI design](https://i.postimg.cc/x19619B6/Screenshot-2023-12-05-002504.png)
+UI for Talgo's authentication service.
+
+Below is the auto-generated Readme from Vue.js.
+
+---
 
 This template should help get you started developing with Vue 3 in Vite.
 
