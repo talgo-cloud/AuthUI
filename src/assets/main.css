@@ -1,0 +1,35 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+  height: 100vh;
+}
+
+input {
+  font-weight: 500;
+  font-size: 14px;
+  font-family: 'Mulish';
+  margin-bottom: 0.8em;
+  padding: 1em;
+  border: 2px solid var(--text-body-light);
+  border-radius: 5px;
+  color: var(--text-body);
+  background-color: var(--white-soft);
+}
+button {
+  font-family: 'Mulish';
+  border: none;
+  background-color: var(--purple);
+  color: var(--white-soft);
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 1em;
+}
+button:hover {
+  background-color: var(--purple-light);
+  cursor: pointer;
+}
